@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WalkThroughActivity</string>
+    <string name="skip_walk_through">Skip</string>
+</resources>
